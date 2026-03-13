@@ -4,7 +4,7 @@ Graduate Software Engineer · Sage · Midrand, Johannesburg
 
 ---
 
-In production since day one. I work across the stack — frontend, backend, migrations, deployments.
+In production since day one. I work across the stack frontend, backend, migrations, deployments.
 I pick things up fast and I leave codebases cleaner than I found them.
 
 ---
