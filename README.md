@@ -1,6 +1,6 @@
 ## Tumelo Junior Phale
 
-Graduate Software Engineer · Sage · Midrand, Johannesburg
+Graduate Software Engineer · Midrand, Johannesburg
 
 ---
 
